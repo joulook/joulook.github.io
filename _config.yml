@@ -3,14 +3,17 @@
 title: Mohammad Hossein Khoshechin Jorshari
 description: PhD Student at MPI-SWS
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /joulook #name of GitHub repository
+url: "joulook.github.io" #custom url to be used instead of GitHub repository
+email: mkhoshechin at mpi-sws . org#
 
 # Pagination
 paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
+
+style_light: "dark"
+style_dark: "dark"
 
 # Social media links in footer
 linkedin: "#"
