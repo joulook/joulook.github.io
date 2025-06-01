@@ -12,9 +12,6 @@ paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-style_light: "dark"
-style_dark: "dark"
-
 # Social media links in footer
 linkedin: "#"
 stackoverflow: "#"
