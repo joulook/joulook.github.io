@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Mohammad Hossein Khoshechin Jorshari
 permalink: /
 subtitle: PhD Student, <a href='https://www.mpi-sws.org/'>Max Planck Institute for Software Systems</a>, mkhoshechin@mpi-sws.org
 
