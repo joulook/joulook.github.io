@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 515, Max Planck Institute for Software Systems</p>
-    <p>Paul-Ehrlich Strasse G 26</p>
-    <p>67663 Kaiserslautern</p>
+    <p>Room 515, Max Planck Institute for Software Systems,</p>
+    <p>Paul-Ehrlich Strasse, G 26,</p>
+    <p>67663, Kaiserslautern</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
