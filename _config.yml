@@ -187,6 +187,7 @@ exclude:
   - package-lock.json
   - _pages/about_kiana.md
   - _pages/about_hamza.md
+  - _pages/about_tanvi.md
   - purgecss.config.js
   - README.md
   - readme_preview/
