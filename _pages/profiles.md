@@ -26,3 +26,7 @@ profiles:
   image_circular: false # crops the image to make it circular
   more_info: >
 ---
+
+| **Student Name**   | **Degree at University** | **Thesis Title / Seminar**                                                                 | **Date**         |
+|--------------------|-------------------------|--------------------------------------------------------------------------------------------|------------------|
+| Hamza Mehmood      | MSc at RPTU             | Master Seminar: *Leveraging JavaSMT and Java Model Checker for Symbolic Reasoning and Verification* | 2024/04–2024/07  |
