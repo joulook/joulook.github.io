@@ -14,15 +14,15 @@ profiles:
   image:
   content: about_tanvi.md
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: >
 - align: left
   image: 
   content: about_kiana.md
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: >
 - align: left
   image: 
   content: about_hamza.md
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
 ---
