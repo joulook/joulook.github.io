@@ -2,11 +2,13 @@
 layout: default
 permalink: /people/
 title: Advised Students
-description: This page lists the bachelor's and master's students I have had the pleasure of advising.
+description: 
 nav: true
 nav_order: 7
 ---
+This page lists the bachelor's and master's students I have had the pleasure of advising.
 
-| **Student Name**   | **Degree at University** | **Thesis Title / Seminar**                                                                 | **Date**         |
-|--------------------|-------------------------|--------------------------------------------------------------------------------------------|------------------|
-| Hamza Mehmood      | MSc at RPTU             | Master Seminar: *Leveraging JavaSMT and Java Model Checker for Symbolic Reasoning and Verification* | 2024/04–2024/07  |
+- 🎓 **Tanvi Moharir, MSc at Rheinland-Pfälzische Technische Universität (RPTU)**
+  &nbsp;&nbsp;• Project: Research Assistant (co-advised with [Srinidhi Nagendra](https://www.srinidhin.com/))
+  &nbsp;&nbsp;• Title: _Blocking and Unblocking DPOR-based semantics for Java Thread API
+  &nbsp;&nbsp;• Date: 2025/02–Present
