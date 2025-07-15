@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm happy to announce that I have joined the [Rigorous Software Engineering group](https://www.mpi-sws.org/rs/) at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/) as a PhD student.
+I'm happy to announce that I have joined the Rigorous Software Engineering group at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/) as a PhD student.
