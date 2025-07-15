@@ -35,7 +35,8 @@ In tandem with my theoretical work on software verification, I also develop prac
 In particular, I am a core developer of the [**Java Model Checker (JMC)**](https://jmc.mpi-sws.org/), a stateless model 
 checker designed for verifying and testing concurrent and distributed Java programs. My current research interests encompass 
 formal verification, model checking, concurrency theory, the theory of distributed systems, automata theory, temporal 
-logic, and database theory. If you are interested in these topics, don't hesitate to reach out to me!
+logic, and database theory. If you are interested in these topics and would like to chat, please feel free to
+reach out!
 
 Before joining MPI-SWS, I completed my Master's degree in Computer Engineering at the 
 [Sharif University of Technology](https://www.sharif.edu/) in Iran, where I worked on the specification and verification
