@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-advised-students",
           title: "Advised Students",
-          description: "This page lists the bachelor&#39;s and master&#39;s students I have had the pleasure of advising.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
