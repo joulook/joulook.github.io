@@ -12,15 +12,15 @@ contact me!** Even if you have a different idea, I am always open to discussing 
 
 - DPOR-based semantics for Virtual Threads in Java and Coroutines in Kotlin
 - Blocking and unblocking DPOR-based semantics for thread synchronization in Java programs
-- Fuzzing concurrent and distributed Java programs DPOR-based notion of coverage
+- Fuzzing concurrent and distributed Java programs using DPOR-based notion of coverage
 - Random testing of concurrent and distributed Java programs using Coupon collector's problem
 - Optimal, sound, and complete DPOR-based model checking of Java Thread Pools
 - DPOR actor-based model checking for the Akka framework 
 - DPOR-based predicate abstraction for reasoning about unbounded concurrent and distributed Java programs
 - Verification of networked processes using rendezvous communication (e.g., wait and notify in Java)
 - Leveraging Lipton reduction with DPOR for coarser equivalence partitions in model checking Java programs
-- Parametric model checking of distributed systems using well-quasi DPOR
+- Parametric verification of distributed systems using well-quasi DPOR
 - Optimal DPOR-based semantics for Java Memory Model JMM
 - Timed DPOR for verifying timestamped-based distributed protocols
 - Extending MuSt over gRPC and Netty
-- DPOR-based IC3 style model checking for unbounded concurrent and distributed Java programs
+- DPOR-based IC3-style model checking for unbounded concurrent and distributed Java programs
