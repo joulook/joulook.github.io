@@ -1,12 +1,13 @@
 ---
 layout: default
 permalink: /people/
-title: Advised Students
+title: advised students
 description: 
 nav: true
 nav_order: 7
 ---
-This page lists the bachelor's and master's students I have had the pleasure of advising.
+This page lists the bachelor's and master's students I have had the pleasure of advising. **If you are interested in working with me,
+you can find more information on the [student projects page](/thesis/).**
 
 ## 🌟 Current Students
 

@@ -30,10 +30,13 @@ latest_posts:
 the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/) in Germany, supervised by 
 [Rupak Majumdar](https://people.mpi-sws.org/~rupak/). My main research focus is on the automated systematic verification
 of concurrent and distributed software, using dynamic partial order reduction and symbolic execution techniques.
-In tandem with my theoretical work on software verification, I also develop practical tools for software model checking.
-
+In tandem with my theoretical work on software verification, I also develop practical tools for software model checking. 
 In particular, I am a core developer of the [**Java Model Checker (JMC)**](https://jmc.mpi-sws.org/), a stateless model 
-checker designed for verifying and testing concurrent and distributed Java programs. My current research interests encompass 
+checker designed for verifying and testing concurrent and distributed Java programs. **If you are interested in
+doing a bachelor's or master's thesis, practical work, or internship over the topics of JMC, please check out the
+[student projects page](/thesis/) for more information.**
+
+My current research interests encompass 
 formal verification, model checking, concurrency theory, the theory of distributed systems, automata theory, temporal 
 logic, and database theory. If you are interested in these topics and would like to chat, please feel free to
 reach out!
