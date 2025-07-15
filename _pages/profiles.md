@@ -7,7 +7,17 @@ nav: true
 nav_order: 7
 ---
 
-- 🎓 **Hamza Mehmood, MSc at RPTU**  
-  &nbsp;&nbsp;• Project: Master Seminar**  
-  &nbsp;&nbsp;• Title: _Leveraging JavaSMT and JMC for Symbolic Reasoning and Verification_  
-  &nbsp;&nbsp;• Date: 2024/04–2024/07
+profiles:
+# if you want to include more than one profile, just replicate the following block
+# and create one content file for each profile inside _pages/
+- align: left
+  image: 
+  content: about_kiana.md
+  image_circular: false # crops the image to make it circular
+  more_info:
+- align: left
+  image: 
+  content: about_hamza.md
+  image_circular: false # crops the image to make it circular
+  more_info: 
+---
