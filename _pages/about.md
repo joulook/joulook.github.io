@@ -13,7 +13,7 @@ profile:
     <p>Paul-Ehrlich Strasse, G 26,</p>
     <p>67663, Kaiserslautern</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
