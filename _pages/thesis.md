@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-I am happy to advise students for their Bachelor or Master theses, practical work, or internships. Some example projects
+I am happy to work with students for their Bachelor or Master theses, practical work, or internships. Some example projects
 that I currently have available are listed below. If you are interested in working with me, **please don't hesitate to
 contact me!** Even if you have a different idea, I am always open to discussing new topics.
 

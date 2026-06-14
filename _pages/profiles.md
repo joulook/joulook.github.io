@@ -1,20 +1,20 @@
 ---
 layout: default
 permalink: /people/
-title: advised students
+title: mentored students
 description: 
 nav: true
 nav_order: 7
 ---
-This page lists the bachelor's and master's students I have had the pleasure of advising. **If you are interested in working with me,
+This page lists the bachelor's and master's students I have had the pleasure of mentoring. **If you are interested in working with me,
 you can find more information on the [student projects page](/thesis/).**
 
 ## 🌟 Current Students
 
 > ### 🎓 **Tanvi Moharir**
 > **Degree:** MSc at Rheinland-Pfälzische Technische Universität (RPTU)  
-> **Project:** Research Assistant (co-advised with [Srinidhi Nagendra](https://www.srinidhin.com/))  
-> **Title:** _Blocking and Unblocking DPOR-based semantics for Java Thread API_  
+> **Project:** Master Thesis (co-mentored with [Srinidhi Nagendra](https://www.srinidhin.com/))  
+> **Title:** _Extending JMC for Real-World Concurrent Java Applications_  
 > **Date:** 2025/02–Present
 
 ## 🏆 Past Students
